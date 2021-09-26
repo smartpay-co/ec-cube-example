@@ -1,4 +1,4 @@
-# EC-Cube Example Project
+# EC-Cube v4 Example Project
 
 ## Get started
 
