@@ -4,6 +4,10 @@
 
 Before getting started with the following steps, please make sure you have met [all the requirements](https://doc4.ec-cube.net/quickstart/requirement) provided by the official documentation.
 
+### Clone this repo
+
+Once all the requirements are met, clone this repo and follow the steps below from the root directory of this project.
+
 ### Composer
 
 ```shell
