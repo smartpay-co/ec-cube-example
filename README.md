@@ -4,6 +4,15 @@
 
 Before getting started with the following steps, please make sure you have met [all the requirements](https://doc4.ec-cube.net/quickstart/requirement) provided by the official documentation.
 
+Note: if you are on MacOS, most requirements are usually met by default. However, you might need to install PHP yourself instead of using the one that comes with the OS.
+
+If you use `brew`:
+
+```shell
+brew install php@7.4
+brew link php@7.4
+```
+
 ### Clone this repo
 
 Once all the requirements are met, clone this repo and follow the steps below from the root directory of this project.
