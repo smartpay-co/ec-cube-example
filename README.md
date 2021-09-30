@@ -1,5 +1,7 @@
 # EC-Cube v4 Example Project
 
+Our [official guide](https://docs.smartpay.co/plugins/ec-cube) for EC-Cube integration.
+
 ## Get started
 
 Before getting started with the following steps, please make sure you have met [all the requirements](https://doc4.ec-cube.net/quickstart/requirement) provided by the official documentation.
@@ -45,7 +47,7 @@ git clone https://github.com/smartpay-co/ec-cube app/Plugin/Smartpay
 php -S 127.0.0.1:8000
 ```
 
-### Open the admin panel for further configurations
+### Open the admin panel for [further configurations](https://docs.smartpay.co/plugins/ec-cube#admin_configs)
 
 ```shell
 open http://localhost:8000/admin # default credentials: admin/password
