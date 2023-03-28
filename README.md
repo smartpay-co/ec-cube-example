@@ -42,10 +42,10 @@ If you plan to use EC-Cube 4.0, please use the following command to install it i
 php composer.phar create-project ec-cube/ec-cube ec-cube "4.0.6" --keep-vcs
 ```
 
-Then the next step is to install the Smartpay plugin. There are two methods to do it. The first is use the admin panel to do it. If you plan to use this method, please skip to the [Run the built-in web server
+Then the next step is to install the Smartpay plugin. There are two ways to do it. The first is via the admin panel. If you choose this way, please skip to the [Run the built-in web server
 ](#run-the-built-in-web-server) section.
 
-The second method is to clone the repo into the EC-Cube folder:
+The second is to clone the repo into the EC-Cube folder:
 
 ### Clone Smartpay plugin into the EC-Cube directory
 
@@ -79,14 +79,14 @@ The default credential is: `admin/password`
 
 ### Install Smartpay plugin by the EC-Cube admin panel
 
-If you installed the Smartpay plugin already. Please skip this step.
+If you have installed the Smartpay plugin already. Please skip this step.
 
-To install the Smartpay plugin via the admin panel. You have to download the release package and upload it to the EC-Cube platform. The released packages files are at:
+To install the Smartpay plugin via the admin panel, you must download and upload the release package to the EC-Cube platform. The released packages are available at:
 
 - For EC-Cube 4.0 https://github.com/smartpay-co/ec-cube/releases
 - For EC-Cube 4.2 https://github.com/smartpay-co/smartpay-ec-cube42/releases
 
-Download the latest version of the plugin package. Then follow the installation section in the [doccument](https://en.docs.smartpay.co/docs/ec-cube#installation)([JA](https://ja.docs.smartpay.co/docs/ec-cube#%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)) to upload and install it.
+Download the latest version of the plugin package, then follow the installation section in the [doccument](https://en.docs.smartpay.co/docs/ec-cube#installation)([JA](https://ja.docs.smartpay.co/docs/ec-cube#%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)) to upload and install it.
 
 ### Further configurations
 
